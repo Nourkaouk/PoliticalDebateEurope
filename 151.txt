@@ -1,0 +1,4 @@
+The EU's rules known as the "AI Act" take a risk-based approach: the riskier the system, the tougher the requirements -- with outright bans on the AI tools deemed to carry the most threat.
+For example, high-risk AI providers must conduct risk assessments and ensure their products comply with the law before they are made available to public.
+"We are regulating as little as possible and as much as needed, with proportionate measures for AI models," Breton told AFP.
+Violations can see companies hit with fines ranging from 7.5 million to 35 million euros, depending on the type of infringement.
